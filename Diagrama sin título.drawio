@@ -18,6 +18,12 @@
             <mxGeometry x="120" y="130" width="100" height="100" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="AKjdJEBlYU6abT36bTKP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="AKjdJEBlYU6abT36bTKP-1" target="wGzXeBGim2QDKJ20j7f9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AKjdJEBlYU6abT36bTKP-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="140" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-5" value="ejecutivo Financiero" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="650" y="20" width="310" height="730" as="geometry" />
         </mxCell>
